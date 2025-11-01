@@ -25,3 +25,6 @@ Bu projeyi derlemek için C++ derleyicisi (`g++` veya Visual Studio) ve matemati
 ```bash
 (main.cpp yerine kod dosyanızın adını kullanın.)
 g++ main.cpp -o battleship -lm
+
+4.Oyun dosyasını çalıştırın.
+./battleship
